@@ -1,6 +1,4 @@
-spring:
-   application:
-      name: spring-config-Test
+name: spring-config-Test
 
       
  

@@ -1,6 +1,4 @@
-spring:
-   application:
-      name: spring-config-Dev
+name: spring-config-Dev
 
       
  
