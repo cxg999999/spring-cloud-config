@@ -1,5 +1,5 @@
 zuul:
   routes:
     routeTest:
-      path: /routesTest/**
+      path: /routeTest/**
       url: http://www.baidu.com/
